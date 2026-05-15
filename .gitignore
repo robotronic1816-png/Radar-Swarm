@@ -1,0 +1,35 @@
+__pycache__/
+*.pyc
+*.npy
+*.mat
+*.csv
+*.log
+*.png
+*.jpg
+.ipynb_checkpoints/
+.env
+tempCodeRunnerFile.py
+# C++ Compilation artifacts
+build/
+*.so
+*.pyd
+*.dll
+
+# Python caches
+__pycache__/
+*.pyc
+# C++ Compilation artifacts
+build/
+*.so
+*.pyd
+*.dll
+
+# Python caches and environments
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+
+# IDE files
+.vscode/
